@@ -22,9 +22,9 @@ CSE graduate (SRM Institute of Science and Technology, Chennai) and former FinTe
 
 ## Projects
 
-- **[Siamese Neural Network for Similarity Detection](https://github.com/Febinkreji/Siamese-Neural-Network-for-Similarity-Detection)** — Siamese network learning embeddings from pairwise inputs via contrastive loss, applied to image similarity/change detection.
 - **[Payment Incident Platform (PIP)](https://github.com/Febinkreji/PIP)** — React + Node/Express + Firebase platform for tracking, analyzing, and resolving payment incidents.
 - **[Tanakh](https://github.com/Febinkreji/Tanakh)** — a readable, beginner-first programming language: lexer, parser, and AST-walking interpreter in Python.
+- **[Siamese Neural Network for Similarity Detection](https://github.com/Febinkreji/Siamese-Neural-Network-for-Similarity-Detection)** — Siamese network learning embeddings from pairwise inputs via contrastive loss, applied to image similarity/change detection.
 
 ## Reach me
 

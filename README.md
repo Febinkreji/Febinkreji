@@ -25,7 +25,7 @@ CSE graduate (SRM Institute of Science and Technology, Chennai) and former FinTe
 - **[Techcora Sales Intelligence Agent](https://github.com/Febinkreji/techcora-sales-intelligence)** — Mastra + Anthropic Claude tool-calling agent that researches companies and generates sales briefs for Techcora.
 - **[Payment Incident Platform (PIP)](https://github.com/Febinkreji/PIP)** — React + Node/Express + Firebase platform for tracking, analyzing, and resolving payment incidents.
 - **[Tanakh](https://github.com/Febinkreji/Tanakh)** — a readable, beginner-first programming language: lexer, parser, and AST-walking interpreter in Python.
-- **[Siamese Neural Network for Similarity Detection](https://github.com/Febinkreji/Siamese-Neural-Network-for-Similarity-Detection)** — Siamese network learning embeddings from pairwise inputs via contrastive loss, applied to image similarity/change detection.
+- **[GainBox](https://github.com/Febinkreji/GAINBOX)** — full-stack platform-onboarding & payments product (React frontend + Node backend, Surfboard integration, RBAC).
 
 ## Reach me
 
